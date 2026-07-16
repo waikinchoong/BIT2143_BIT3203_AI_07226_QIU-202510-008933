@@ -1,0 +1,16 @@
+student_id,name,age,hours_studied,exam_score,preferred_language,attendance_pct,project_score
+S001,Aina,20,2.5,54,Python,82,58
+S002,Ben,21,5.0,71,C++,90,73
+S003,Chong,-4,4.0,68,Python,88,70
+S004,Devi,22,8.0,84,Java,94,87
+S005,Ethan,240,6.5,79,Python,91,81
+S006,Farah,20,,63,C++,85,66
+S007,Gan,,3.0,57,Python,79,59
+S008,Hana,23,9.0,92,Python,96,94
+S009,Irfan,22,27.0,76,JavaScript,83,77
+S010,Jia,21,7.0,150,Python,93,88
+S011,Kumar,24,1.0,45,,68,50
+S012,Liyana,20,5.5,,Python,89,75
+S013,Marcus,22,4.5,69,C++,86,72
+S014,Nadia,21,6.0,80,Java,92,84
+S015,Ong,23,2.0,52,Python,74,55

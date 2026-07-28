@@ -26,6 +26,7 @@ The number of electric vehicles (EVs) is increasing, creating higher demand for 
      problem is solved? -->
 
 Efficient charging station scheduling reduces waiting time, avoids booking conflicts, and improves the charging experience for EV owners. It also encourages the adoption of electric vehicles and supports sustainable transportation.
+
 ## SDG alignment
 
 <!-- Worksheet: "Related UN Sustainable Development Goal (SDG)" — name the SDG(s)
